@@ -1,0 +1,9 @@
+variaveis:S,A
+inicial:S
+terminais:0,1
+
+producoes
+S: 0A1
+A: 0
+A: 1
+A: 0A1
